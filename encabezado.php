@@ -28,6 +28,7 @@
 					<li><a href="./listar.php">Artículos</a></li>
 					<li><a href="./vender.php">Venta</a></li>
 					<li><a href="./ventas.php">Registro de ventas</a></li>
+					<li><a href="./index.php">Cerrar Sesión</a></li>
 				</ul>
 			</div>
 		</div>
