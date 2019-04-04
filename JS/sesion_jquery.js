@@ -74,7 +74,7 @@ jQuery(document).on('submit','#form_contraseña_verificar',function(event){
       console.log(respuesta);
 
       if(!respuesta.error){
-          location="./venta.php";
+          location="./listar.php";
       }else{
         swal({
           button:"Aceptar",
