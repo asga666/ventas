@@ -11,7 +11,7 @@
 <html lang="es">
 <head>
 	<meta charset="UTF-8">
-	<title>Ventas</title>
+	<title>Happy Coppy</title>
 	
 	<link rel="stylesheet" href="./css/fontawesome-all.min.css">
 	<link rel="stylesheet" href="./css/2.css">
