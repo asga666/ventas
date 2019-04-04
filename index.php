@@ -3,7 +3,7 @@
 		<title>Happy Coppy</title>
 		<script src="alerts/sweetalert.js"></script>
 		<link rel="stylesheet" type="text/css" href="./estilo/global.css">
-		<link rel="icon" type="image/png" href="./misc/icon.png">
+		<link rel="icon" type="image/png" href="./misc/icon.ico">
 		<link rel='stylesheet' href='./misc/font/typicons.min.css'/>
 		<link rel='stylesheet' href='estilo/xxx.css'>
 		<meta charset="UTF-8">

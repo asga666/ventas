@@ -12,7 +12,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Happy Coppy</title>
-	<link rel="icon" type="image/png" href="./misc/icon.png">
+	<link rel="icon" type="image/png" href="./misc/icon.ico">
 	<link rel="stylesheet" href="./css/fontawesome-all.min.css">
 	<link rel="stylesheet" href="./css/2.css">
 	<link rel="stylesheet" href="./css/estilo.css">
