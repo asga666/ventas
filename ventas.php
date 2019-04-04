@@ -6,7 +6,7 @@ $ventas = $sentencia->fetchAll(PDO::FETCH_OBJ);
 ?>
 
 	<div class="col-xs-12">
-		<h1>Ventas</h1>
+		<h1>Registro de ventas</h1>
 		<div>
 			<a class="btn btn-success" href="./vender.php">Nueva <i class="fa fa-plus"></i></a>
 		</div>

@@ -26,7 +26,7 @@
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">
 					<li><a href="./listar.php">Artículos</a></li>
-					<li><a href="./vender.php">Ventas</a></li>
+					<li><a href="./vender.php">Venta</a></li>
 					<li><a href="./ventas.php">Registro de ventas</a></li>
 				</ul>
 			</div>
