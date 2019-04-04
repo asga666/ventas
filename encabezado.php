@@ -19,9 +19,11 @@
 </head>
 <body>
 	<nav class="navbar navbar-inverse navbar-fixed-top">
-		<div class="container">
+		<div class="container-fluid" style="background:#b7b7b7;">
 			<div class="navbar-header">
-				<a class="navbar-brand" href="#">HAPPY COPPY</a>
+				<a class="navbar-brand" href="#">
+					<img src="misc/fondo.png" alt="">
+				</a>
 			</div>
 			<div id="navbar" class="collapse navbar-collapse">
 				<ul class="nav navbar-nav">

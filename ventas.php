@@ -31,7 +31,7 @@ $ventas = $sentencia->fetchAll(PDO::FETCH_OBJ);
 							<thead>
 								<tr>
 									<th>Código</th>
-									<th>Descripción</th>
+									<th>Nombre</th>
 									<th>Cantidad</th>
 								</tr>
 							</thead>

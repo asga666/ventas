@@ -58,7 +58,7 @@ $granTotal = 0;
 				<tr>
 					<th>ID</th>
 					<th>Código</th>
-					<th>Descripción</th>
+					<th>Nombre</th>
 					<th>Precio de venta</th>
 					<th>Cantidad</th>
 					<th>Total</th>

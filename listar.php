@@ -16,7 +16,7 @@ $productos = $sentencia->fetchAll(PDO::FETCH_OBJ);
 				<tr>
 					<th>ID</th>
 					<th>Código</th>
-					<th>Descripción</th>
+					<th>Nombre</th>
 					<th>Precio de compra</th>
 					<th>Precio de venta</th>
 					<th>Existencia</th>

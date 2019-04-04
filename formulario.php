@@ -6,7 +6,7 @@
 		<label for="codigo">Código de barras:</label>
 		<input class="form-control" name="codigo" required type="text" id="codigo" placeholder="Escribe el código">
 
-		<label for="descripcion">Descripción:</label>
+		<label for="descripcion">Nombre:</label>
 		<textarea required id="descripcion" name="descripcion" cols="30" rows="5" class="form-control"></textarea>
 
 		<label for="precioVenta">Precio de venta:</label>
